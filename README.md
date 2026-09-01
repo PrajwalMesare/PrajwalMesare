@@ -2,7 +2,6 @@
 
 Email Me 👉 ✉️ **mesareprajwal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-## 🔗 I am a Content Creator. 😊😊
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajwal-mesare-700678263/) 
 
