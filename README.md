@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **mesareprajwal@gmail.com** For Collaboration/Project or An
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrajwalMesare&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=PrajwalMesare&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrajwalMesare&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Snake Game Repo View -->
