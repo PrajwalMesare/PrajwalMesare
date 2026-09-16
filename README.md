@@ -33,7 +33,7 @@ $ cat about.txt
 Hi, I'm **Prajwal Mesare**.I build systems that sit between data and decisions, and I solve problems for fun when the algorithms won't listen.
 
 
-- Currently building **[CHURN COMMANDER](https://github.com/PrajwalMesare/Churn-Commander-)** 
+- Currently building : **[CHURN COMMANDER](https://github.com/PrajwalMesare/Churn-Commander-)** 
 - Portfolio: **[dossier-iota-one.vercel.app](https://portfolio-pi-five-55.vercel.app)**
 - Learning : **Machine Learning**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
