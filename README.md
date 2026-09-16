@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Portrait/avatar placeholder - add your photo here -->
-<img src="https://via.placeholder.com/300x300/1f6feb/ffffff?text=Prajwal+Mesare" width="300" alt="Prajwal Mesare">
+<img src="https://github.com/PrajwalMesare/PrajwalMesare/blob/188a7b73efcd5a6fd324ed1d711612278840c953/data/prajwal_portrait.svg" width="450" alt="Prajwal Mesare">
 
 <br>
 
