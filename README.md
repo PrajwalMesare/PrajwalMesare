@@ -45,7 +45,7 @@ Hi, I'm **Prajwal Mesare**.I build systems that sit between data and decisions, 
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,mongodb,docker,git,github,vscode&perline=8" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,r,sklearn,mongodb,docker,git,github,vscode&perline=8" alt="tech stack">
 
 </div>
 
@@ -61,9 +61,9 @@ Hi, I'm **Prajwal Mesare**.I build systems that sit between data and decisions, 
 
 <!-- Self-rated radar - edit your skills.json -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+  <source media="(prefers-color-scheme: dark)"  srcset="data/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="data/radar-light.svg">
+  <img src="data/radar-dark.svg" width="400" alt="skill radar chart">
 </picture>
 
 </td>
@@ -71,9 +71,9 @@ Hi, I'm **Prajwal Mesare**.I build systems that sit between data and decisions, 
 
 <!-- Live radar built from language byte counts -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+  <source media="(prefers-color-scheme: dark)"  srcset="data/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="data/radar-langs-light.svg">
+  <img src="data/radar-langs-dark.svg" width="400" alt="language radar chart">
 </picture>
 
 </td>
@@ -85,24 +85,6 @@ Hi, I'm **Prajwal Mesare**.I build systems that sit between data and decisions, 
 ---
 
 <div align="center">
-
-## `~/` contribution calendar
-
-<!-- 3D isometric calendar, regenerated every 6h -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
-<!-- Snake eats the contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/PrajwalMesare/PrajwalMesare/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrajwalMesare/PrajwalMesare/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/PrajwalMesare/PrajwalMesare/output/snake.svg" width="100%" alt="snake eating the contribution graph">
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
